@@ -1,6 +1,6 @@
 Name:		texlive-scripture
-Version:	64910
-Release:	2
+Version:	65493
+Release:	1
 Summary:	A LaTeX style for typesetting Bible quotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scripture
