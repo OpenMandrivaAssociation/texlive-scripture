@@ -1,5 +1,5 @@
 Name:		texlive-scripture
-Version:	65493
+Version:	69232
 Release:	1
 Summary:	A LaTeX style for typesetting Bible quotations
 Group:		Publishing
