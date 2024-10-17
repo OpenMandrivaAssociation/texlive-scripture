@@ -3,7 +3,7 @@ Version:	69232
 Release:	1
 Summary:	A LaTeX style for typesetting Bible quotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scripture
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scripture
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scripture.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scripture.doc.r%{version}.tar.xz
